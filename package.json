@@ -7,6 +7,6 @@
   "private": true,
   "repository": "git@github.com:sahilsharma2408/lerna-git-hosted-bar.git",
   "dependencies": {
-    "@sahilsharma2408/lerna-git-hosted-foo": "git+ssh://git@github.com/sahilsharma2408/lerna-git-hosted-foo.git"
+    "@sahilsharma2408/lerna-git-hosted-foo": "git+ssh://git@github.com/sahilsharma2408/lerna-git-hosted-foo.git#semver:^2.1.3"
   }
 }
